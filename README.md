@@ -1,2 +1,1 @@
-# CV
-My latest resume
+Here you can find my latest resume.
